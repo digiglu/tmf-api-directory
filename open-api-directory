@@ -1,12 +1,12 @@
 [
   {
-    'url': 'https://raw.githubusercontent.com/tmforum-apis/TMF669_PartyRole/master/Party_Role_Management.admin.swagger.json',
-    'key': 'TMF669',
-    'title': 'Party Role'
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF669_PartyRole/master/Party_Role_Management.admin.swagger.json",
+    "key": "TMF669",
+    "title": "Party Role"
   },
   {
-    'url': 'https://raw.githubusercontent.com/tmforum-apis/TMF671_Promotion/master/Promotion_Management.admin.swagger.json',
-    'key': 'TMF671',
-    'title': 'Promotion'
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF671_Promotion/master/Promotion_Management.admin.swagger.json",
+    "key": "TMF671",
+    "title": "Promotion"
   }
 ]
