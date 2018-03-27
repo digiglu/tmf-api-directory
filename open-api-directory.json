@@ -8,5 +8,35 @@
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF671_Promotion/master/Promotion_Management.admin.swagger.json",
     "key": "TMF671",
     "title": "Promotion"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF657_ServiceQualityManagement/master/Service_Quality_Management.admin.swagger.json",
+    "key": "TMF657",
+    "title": "Service Quality Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF655_ChangeManagement/master/Change_Management.admin.swagger.json",
+    "key": "TMF655",
+    "title": "Change Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF653_ServiceTestManagement/master/Service_Test_Management.admin.swagger.json",
+    "key": "TMF653",
+    "title": "Service Test Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF691_FederatedIdentity/master/FederatedId_v10draft1_7thMarch18.swagger.json",
+    "key": "TMF691",
+    "title": "Federated ID"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF681_Communication/master/Communication_Management.admin.swagger.json",
+    "key": "TMF681",
+    "title": "Communication Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF680_Recommendation/master/Recommendation_Management.admin.swagger.json",
+    "key": "TMF680",
+    "title": "Recommendation Management"
   }
 ]
