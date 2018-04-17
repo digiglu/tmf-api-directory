@@ -100,11 +100,6 @@
     "title": "API ProductOfferingQualification"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF646_AppointmentManagement/master/Appointment_Management.regular.swagger.json",
-    "key": "TMF646",
-    "title": "API Appointment"
-  },
-  {
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF677_UsageConsumption/master/Usage_Consumption.regular.swagger.json",
     "key": "TMF677",
     "title": "API UsageConsumption"
