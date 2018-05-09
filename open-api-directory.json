@@ -3,7 +3,7 @@
     "url": "https://raw.githubusercontent.com/drejahl/experiment-api/master/api/swagger/swagger.yaml",
     "key": "ABC",
     "title": "Test"
-  }.
+  },
   {
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF634_ResourceCatalog/master/TMF634_Resource_Catalog_Management.admin.swagger-R17.0.0.json",
     "key": "TMF634",
