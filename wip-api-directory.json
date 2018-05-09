@@ -5,7 +5,7 @@
     "title": "Federated ID API"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/WIP_TMF684_ShipmentTracking/master/shipmentTracking_v10_Jan18_SwaggerValidatorPassed.json",
+    "url": "https://raw.githubusercontent.com/drejahl/wip-tmf/master/a.json",
     "key": "TMF684",
     "title": "Shipment Tracking Management"
   }
