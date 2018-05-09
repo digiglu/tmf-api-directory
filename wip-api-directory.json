@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/WIP_TMF691_FederatedIdentity/master/FederatedId_v10draft1B_7thMarch18_SwaggerValidatorPassed.swagger.json",
+    "key": "TMF691",
+    "title": "Federated ID API"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/WIP_TMF684_ShipmentTracking/master/shipmentTracking_v10_Jan18_SwaggerValidatorPassed.json",
+    "key": "TMF684",
+    "title": "Shipment Tracking Management"
+  }
+]
