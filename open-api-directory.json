@@ -130,16 +130,6 @@
     "title": "API User Interaction"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF684_ShipmentTracking/master/shipmentTrackingTMF.json",
-    "key": "TMF684",
-    "title": "API Shippment Tracking"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF645_ServiceQualification/master/Service_Qualification.regular.swagger.json",
-    "key": "TMF645",
-    "title": "API ServiceQualification"
-  },
-  {
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF669_PartyRole/master/Party_Role_Management.admin.swagger.json",
     "key": "TMF669",
     "title": "Party Role"
@@ -163,11 +153,6 @@
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF653_ServiceTestManagement/master/Service_Test_Management.admin.swagger.json",
     "key": "TMF653",
     "title": "Service Test Management"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF691_FederatedIdentity/master/FederatedId_v10draft1_7thMarch18.swagger.json",
-    "key": "TMF691",
-    "title": "Federated ID"
   },
   {
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF681_Communication/master/Communication_Management.admin.swagger.json",
