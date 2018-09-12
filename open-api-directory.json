@@ -5,69 +5,54 @@
     "title": "Resource Catalog Management"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF662_EntityCatalog/master/EntityCatalog_Management.admin.swagger.json",
-    "key": "TMF662",
-    "title": "EntityCatalog Management"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF641_ServiceOrder/master/Service_Ordering_Management.regular.swagger.json",
+    "key": "TMF641",
+    "title": "Service Ordering Management"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF637_ProductInventory/master/Product_Inventory_Management.swagger.json",
-    "key": "TMF637",
-    "title": "API ProductInventory"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF645_ServiceQualification/master/serviceQualification.regular.swagger.json",
+    "key": "TMF645",
+    "title": "Service Qualification"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF633_ServiceCatalog/master/TMF633_Service_Catalog_Management.admin.swagger_R17.5.json",
-    "key": "TMF633",
-    "title": "Service Catalog Management"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF646_AppointmentManagement/master/Appointment.regular.swagger.json",
+    "key": "TMF646",
+    "title": "Appointment Management"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF620_ProductCatalog/master/TMF620_Product_Catalog_Management.admin.swagger.json",
-    "key": "TMF620",
-    "title": "Product Catalog Management"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF622_ProductOrder/master/Product_Ordering_Management.regular.swagger.json",
+    "key": "TMF622",
+    "title": "Product Order"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF648_QuoteManagement/master/Quote_Management.regular.swagger.json",
-    "key": "TMF648",
-    "title": "API Quote"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF677_UsageConsumption/master/Usage_Consumption.regular.swagger.json",
+    "key": "TMF677",
+    "title": "Usage Consumption"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF673_GeographicAddress/master/GeographicAddress_Management.regular.swagger.json",
-    "key": "TMF673",
-    "title": "API GeographicAddress"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF679_ProductOfferingQualification/master/Product_Offering_Qualification_Management.regular.swagger.json",
+    "key": "TMF679",
+    "title": "Product Offering Qualification"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF675_GeographicLocation/master/GeographicLocation.regular.swagger.json",
-    "key": "TMF675",
-    "title": "API GeographicLocation"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF672_UserRolesPermissions/master/UserRoles&Permissions_v1draft3_swagger_Released.json",
+    "key": "TMF672",
+    "title": "UserRoles and Permissions"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF632_PartyManagement/master/Party_Management.regular.swagger.json",
-    "key": "TMF632",
-    "title": "API Party Management"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF674_GeographicSite/master/GeographicSite_Management.regular.swagger.json",
+    "key": "TMF674",
+    "title": "Geographic Site"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF680_Recommendation/master/Recommendation_Management.admin.swagger.json",
-    "key": "TMF680",
-    "title": "Recommendation Management"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF678_CustomerBill/master/CustomerBill_Management.regular.swagger.json",
+    "key": "TMF678",
+    "title": "Customer Bill"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMP663_ShoppingCart/master/Shopping_Cart_Management.admin.swagger.json",
-    "key": "TMP663",
-    "title": "Shopping Cart Management"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF668_PartnershipType/master/Partnership_Type_Management.admin.swagger.json",
-    "key": "TMF668",
-    "title": "Partnership Type Management"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF651_AgreementManagement/master/Agreement_Management.admin.swagger.json",
-    "key": "TMF651",
-    "title": "Agreement Management"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF666_AccountManagement/master/Account_Management.admin.swagger.json",
-    "key": "TMF666",
-    "title": "Account Management"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF635_UsageManagement/master/TMF635_UsageManagement_swagger.json",
+    "key": "TMF635",
+    "title": "Usage Management"
   },
   {
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF629_CustomerManagement/master/Customer_Management.admin.swagger.json",
@@ -75,59 +60,14 @@
     "title": "Customer Management"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF635_UsageManagement/master/TMF635_UsageManagement_swagger.json",
-    "key": "TMF635",
-    "title": "API UsageManagement"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF666_AccountManagement/master/Account_Management.admin.swagger.json",
+    "key": "TMF666",
+    "title": "Account Management"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF678_CustomerBill/master/CustomerBill_Management.regular.swagger.json",
-    "key": "TMF678",
-    "title": "API CustomerBill"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF674_GeographicSite/master/GeographicSite_Management.regular.swagger.json",
-    "key": "TMF674",
-    "title": "API GeographicSite"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF672_UserRolesPermissions/master/UserRoles%26Permissions_v1draft3_swagger_Released.json",
-    "key": "TMF672",
-    "title": "UserRoles and Permissions"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF679_ProductOfferingQualification/master/Product_Offering_Qualification_Management.regular.swagger.json",
-    "key": "TMF679",
-    "title": "API ProductOfferingQualification"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF677_UsageConsumption/master/Usage_Consumption.regular.swagger.json",
-    "key": "TMF677",
-    "title": "API UsageConsumption"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF622_ProductOrder/master/Product_Ordering_Management.regular.swagger.json",
-    "key": "TMF622",
-    "title": "API ProductOrdering"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF641_ServiceOrder/master/Service_Ordering_Management.regular.swagger.json",
-    "key": "TMF641",
-    "title": "API ServiceOrdering"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF638_ServiceInventory/master/Service_Inventory_Management.regular.swagger.json",
-    "key": "TMF638",
-    "title": "API ServiceInventory"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF676_PaymentManagement/master/paymentManagementTMF_v1.0.0_review9",
-    "key": "TMF676",
-    "title": "API Payment Management"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF683_UserInteraction/master/userInteractionManagement_TMF_v1.0.0Review1.json",
-    "key": "TMF683",
-    "title": "API User Interaction"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF651_AgreementManagement/master/Agreement_Management.admin.swagger.json",
+    "key": "TMF651",
+    "title": "Agreement Management"
   },
   {
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF669_PartyRole/master/Party_Role_Management.admin.swagger.json",
@@ -135,19 +75,9 @@
     "title": "Party Role"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF671_Promotion/master/Promotion_Management.admin.swagger.json",
-    "key": "TMF671",
-    "title": "Promotion"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF657_ServiceQualityManagement/master/Service_Quality_Management.admin.swagger.json",
-    "key": "TMF657",
-    "title": "Service Quality Management"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF655_ChangeManagement/master/Change_Management.admin.swagger.json",
-    "key": "TMF655",
-    "title": "Change Management"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF668_PartnershipType/master/Partnership_Type_Management.admin.swagger.json",
+    "key": "TMF668",
+    "title": "Partnership Type"
   },
   {
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF653_ServiceTestManagement/master/Service_Test_Management.admin.swagger.json",
@@ -155,13 +85,178 @@
     "title": "Service Test Management"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF681_Communication/master/Communication_Management.admin.swagger.json",
-    "key": "TMF681",
-    "title": "Communication Management"
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF655_ChangeManagement/master/Change_Management.admin.swagger.json",
+    "key": "TMF655",
+    "title": "Change Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF657_ServiceQualityManagement/master/Service_Quality_Management.admin.swagger.json",
+    "key": "TMF657",
+    "title": "Service Quality Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF671_Promotion/master/Promotion_Management.admin.swagger.json",
+    "key": "TMF671",
+    "title": "Promotion"
   },
   {
     "url": "https://raw.githubusercontent.com/tmforum-apis/TMF680_Recommendation/master/Recommendation_Management.admin.swagger.json",
     "key": "TMF680",
-    "title": "Recommendation Management"
+    "title": "Recommendation"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF681_Communication/master/Communication_Management.admin.swagger.json",
+    "key": "TMF681",
+    "title": "Communication"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF691_FederatedIdentity/master/FederatedId_v11draft2_14thJune14_SwaggerValidatorPassed.swagger.json",
+    "key": "TMF691",
+    "title": "Federated Identity"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF632_PartyManagement/master/Party_Management.regular.swagger.json",
+    "key": "TMF632",
+    "title": "Party Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF675_GeographicLocation/master/GeographicLocation.regular.swagger.json",
+    "key": "TMF675",
+    "title": "Geographic Location"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF673_GeographicAddress/master/GeographicAddress_Management.regular.swagger.json",
+    "key": "TMF673",
+    "title": "Geographic Address"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF648_QuoteManagement/master/Quote_Management.regular.swagger.json",
+    "key": "TMF648",
+    "title": "Quote Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF620_ProductCatalog/master/TMF620_Product_Catalog_Management.regular.swagger.json",
+    "key": "TMF620",
+    "title": "Product Catalog"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum/TMFAPISWAGGER/develop/serviceActivationAndConfiguration/v2/swagger2.json",
+    "key": "TMF640",
+    "title": "Service Activation and Configuration"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF641_ServiceOrder/master/Service_Ordering_Management.regular.swagger.json",
+    "key": "TMF641",
+    "title": "Service Ordering Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF633_ServiceCatalog/master/TMF633_Service_Catalog_Management.admin.swagger_R17.5.json",
+    "key": "TMF633",
+    "title": "Service Catalog Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum/TMFAPISWAGGER/develop/alarmManagement/v3/swagger2.json",
+    "key": "TMF642",
+    "title": "Alarm Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum/TMFAPISWAGGER/develop/documentManagement/v2/swagger2.json",
+    "key": "TMF667",
+    "title": "Document Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum/TMFAPISWAGGER/develop/entityCatalogManagement/v3/swagger2.json",
+    "key": "TMF662",
+    "title": "Entity Catalog Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum/DSPRIVACY/master/tmforum-Privacy-1.0-swagger-3.json",
+    "key": "TMF690",
+    "title": "Privacy Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/WIP_TMF664_ResourceFunctionActivationConfiguration/master/ResourceFunctionActivationAndConfiguration.swagger.1.5.0.json",
+    "key": "TMF664",
+    "title": "Resource Function Activation and Configuration"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/WIP_TMF656_ServiceProblemManagement/master/Service_Problem_Management.admin.swagger.json",
+    "key": "TMF656",
+    "title": "Service Problem Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/WIP_TMF623_SLAManagement/master/SLAManagement.swagger.2.0.json",
+    "key": "TMF623",
+    "title": "SLA Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF658_LoyaltyManagement/master/Loyalty_Management.admin.swagger.json",
+    "key": "TMF658",
+    "title": "Loyalty Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF683_PartyInteraction/master/partyInteractionManagement_TMF_v1.0.0Review2.json",
+    "key": "TMF683",
+    "title": "Party Interaction"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF676_PaymentManagement/master/paymentManagementTMF_v1.0.0_review9",
+    "key": "TMF676",
+    "title": "Payment Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/WIP_TMF649_PerformanceManagementThresholding/master/Perfromance_Management_Threshold.json",
+    "key": "TMF649",
+    "title": "Performance Management Thresholding"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF654_PrepayBalanceManagement/master/PrepayBalanceManagement_R17_v204.swagger.json",
+    "key": "TMF654",
+    "title": "Prepay Balance Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF637_ProductInventory/master/Product_Inventory_Management.swagger.json",
+    "key": "TMF637",
+    "title": "Product Inventory"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF634_ResourceCatalog/master/TMF634_Resource_Catalog_Management.admin.swagger-R17.0.0.json",
+    "key": "TMF634",
+    "title": "Resource Catalog"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF639_ResourceInventory/master/Resource_Inventory_Management.admin.swagger.json",
+    "key": "TMF639",
+    "title": "Resource Inventory"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF652_ResourceOrderManagement/master/Resource_Ordering_Management.admin.swagger.json",
+    "key": "TMF652",
+    "title": "Resource Order Management"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF685_ResourcePool/master/Resource_Pool_Management.admin.swagger.json",
+    "key": "TMF685",
+    "title": "Resource Pool"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF638_ServiceInventory/master/Service_Inventory_Management.regular.swagger.json",
+    "key": "TMF638",
+    "title": "Service Inventory"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF684_ShipmentTracking/master/shipmentTracking_v10_Jan18_SwaggerValidatorPassed.json",
+    "key": "TMF684",
+    "title": "Shipment Tracking"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF663_ShoppingCart/master/Shopping_Cart_Management.admin.swagger.json",
+    "key": "TMF663",
+    "title": "Shopping Cart"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tmforum-apis/TMF621_TroubleTicket/master/Trouble_Ticket.swagger.json",
+    "key": "TMF621",
+    "title": "TroubleTicket"
   }
 ]
