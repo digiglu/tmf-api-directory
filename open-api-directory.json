@@ -185,7 +185,7 @@
     "title": "Service Problem Management"
   },
   {
-    "url": "https://raw.githubusercontent.com/tmforum-apis/WIP_TMF623_SLAManagement/master/SLAManagement.swagger.2.0.json",
+    "url": "https://raw.githubusercontent.com/tmforum/TMFAPISWAGGER/develop/slaManagement/v2/swagger2.json",
     "key": "TMF623",
     "title": "SLA Management"
   },
